@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Aranya Bahuguna  🎓 **B.Tech CSE (Core)** | VIT Bhopal University (Expected May 2026)  
-Connect Me Mail  : [📧](mailto:bahugunaaranya@gmail.com) | 📞 +91-8218154757  
- [🔗](https://www.linkedin.com/in/aranya-bahuguna-485aa4251/) | [🐙](https://github.com/aranya13)  
+<h1 style="text-align:center;">👋 Hi, I'm Aranya Bahuguna</h1>
+<h2 style="text-align:center;">🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Passionate about Full-Stack Development, ML & Cybersecurity</h2>
 
 
+<div align="center">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aranya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranya13&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
 
 ## 🛠 Tech Stack  
-
 <p align="center">
   
   <!-- Frontend -->
@@ -44,29 +47,26 @@ Connect Me Mail  : [📧](mailto:bahugunaaranya@gmail.com) | 📞 +91-8218154757
 - Cross-platform SOS app with real-time reporting.  
 - Integrated Google Maps & GeoHashing for live tracking.  
 - YOLOv8 emergency detection with AES-encrypted data.  
-- Role-based access control for secure operations.  
-
----
-
+- Role-based access control for secure operations.
+  
 ### 📦 Inventory Management System (Jan 2025 – Feb 2025)  
 **MERN Stack**  
 - Full-stack inventory system with CRUD & real-time sync.  
-- Multi-role authentication and secure access control.  
-
----
-
+- Multi-role authentication and secure access control.
+  
 ### 🔐 AES Image Encryptor (Feb 2023 – May 2023)  
 **HTML | CSS | JS | AES-256**  
 - Web tool for image encryption using AES-256.  
 - Simple UI for secure uploads, deployed on GitHub Pages.  
 
 
-<div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aranya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranya13&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
 
+Contact Me :
+Mail: [Email 📧](mailto:bahugunaaranya@gmail.com) | 
+📞 +91-8218154757  
+LinkedIn: [LinkedIn 🔗](https://www.linkedin.com/in/aranya-bahuguna-485aa4251/) | 
+Github: [Github 🐙](https://github.com/aranya13)  
 
 ✨ *Always open to collaborations on full-stack development, ML projects, and innovative tech solutions.*  
 
