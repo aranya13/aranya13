@@ -63,7 +63,7 @@
 ## 📫 Contact Me  
 <div align="center">
   <a href="mailto:your.email@example.com">📧 Email</a> | 
-  <a href="tel:+918218154757">📞 Phone</a> | 
+  <a href="tel:+918218154757">📞 +918218154757</a> | 
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">🔗 LinkedIn</a> | 
   <a href="https://github.com/litcoder" target="_blank">🐙 GitHub</a>
 </div>
@@ -74,8 +74,11 @@
 
 ---
 
-## 🎮 Fun Section: Play Tic-Tac-Toe
-<div align="center">
-<iframe src="https://aranya13.github.io/tic-tac-toe/" width="350" height="400" style="border:none;"></iframe>
-<p>Click inside the frame to play a simple Tic-Tac-Toe game!</p>
-</div>
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aranya13&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+
+
