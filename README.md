@@ -40,7 +40,12 @@ Connect Me Mail  : [📧](mailto:bahugunaaranya@gmail.com) | 📞 +91-8218154757
 
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aranya13_icons=true&theme=radical)
+<div align="center">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aranya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranya13&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
+
 
 ✨ *Always open to collaborations on full-stack development, ML projects, and innovative tech solutions.*  
 
