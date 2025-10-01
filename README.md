@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Aranya Bahuguna  
-
-🎓 **B.Tech CSE (Core)** | VIT Bhopal University (Expected May 2026)  
-📧 [bahugunaaranya@gmail.com](mailto:bahugunaaranya@gmail.com) | 📞 +91-8218154757  
-🔗 [LinkedIn](https://www.linkedin.com/in/aranya-bahuguna-485aa4251/) | [GitHub](https://github.com/aranya13)  
+# 👋 Hi, I'm Aranya Bahuguna  🎓 **B.Tech CSE (Core)** | VIT Bhopal University (Expected May 2026)  
+Connect Me Mail  : [📧](mailto:bahugunaaranya@gmail.com) | 📞 +91-8218154757  
+🔗 [🔗](https://www.linkedin.com/in/aranya-bahuguna-485aa4251/) | [🐙](https://github.com/aranya13)  
 
 ---
 
@@ -43,3 +41,5 @@
 ---
 
 ✨ *Always open to collaborations on full-stack development, ML projects, and innovative tech solutions.*  
+
+
