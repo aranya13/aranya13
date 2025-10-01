@@ -62,10 +62,10 @@
 
 ## 📫 Contact Me  
 <div align="center">
-  <a href="mailto:your.email@example.com">📧 Email</a> | 
+  <a href="mailto:bahugunaaranya@gmail.com">📧 Email</a> | 
   <a href="tel:+918218154757">📞 +918218154757</a> | 
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">🔗 LinkedIn</a> | 
-  <a href="https://github.com/litcoder" target="_blank">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/aranya-bahuguna-485aa4251/" target="_blank">🔗 LinkedIn</a> | 
+  <a href="https://github.com/aranya13" target="_blank">🐙 GitHub</a>
 </div>
 
 ---
