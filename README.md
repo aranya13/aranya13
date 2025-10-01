@@ -1,16 +1,15 @@
-<h1 style="text-align:center;">👋 Hi, I'm Aranya Bahuguna</h1>
-<h2 style="text-align:center;">🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Passionate about Full-Stack Development, ML & Cybersecurity</h2>
-
+<h1 align="center">👋 Hi, I'm Aranya Bahuguna</h1>
+<h3 align="center">🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Full-Stack Developer | ML & Cybersecurity Enthusiast</h3>
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aranya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranya13&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aranya13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranya13&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
+
+---
 
 ## 🛠 Tech Stack  
 <p align="center">
-  
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -36,38 +35,47 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-
 </p>
 
+---
 
 ## 💻 Projects  
 
 ### 🔴 SOS-Service (Sep 2024 – Feb 2025)  
 **MERN | Supabase | ML | AES**  
-- Cross-platform SOS app with real-time reporting.  
-- Integrated Google Maps & GeoHashing for live tracking.  
-- YOLOv8 emergency detection with AES-encrypted data.  
+- Real-time SOS app with live tracking and emergency detection.  
+- Integrated Google Maps & GeoHashing for accurate location.  
+- YOLOv8 for emergency detection & AES-encrypted data storage.  
 - Role-based access control for secure operations.
-  
+
 ### 📦 Inventory Management System (Jan 2025 – Feb 2025)  
 **MERN Stack**  
 - Full-stack inventory system with CRUD & real-time sync.  
 - Multi-role authentication and secure access control.
-  
+
 ### 🔐 AES Image Encryptor (Feb 2023 – May 2023)  
 **HTML | CSS | JS | AES-256**  
-- Web tool for image encryption using AES-256.  
-- Simple UI for secure uploads, deployed on GitHub Pages.  
+- Web tool for encrypting images securely with AES-256.  
+- Clean UI for quick uploads, deployed on GitHub Pages.
 
+---
 
+## 📫 Contact Me  
+<div align="center">
+  <a href="mailto:your.email@example.com">📧 Email</a> | 
+  <a href="tel:+918218154757">📞 Phone</a> | 
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">🔗 LinkedIn</a> | 
+  <a href="https://github.com/litcoder" target="_blank">🐙 GitHub</a>
+</div>
 
+---
 
-Contact Me :
-Mail: [Email 📧](mailto:bahugunaaranya@gmail.com) | 
-📞 +91-8218154757  
-LinkedIn: [LinkedIn 🔗](https://www.linkedin.com/in/aranya-bahuguna-485aa4251/) | 
-Github: [Github 🐙](https://github.com/aranya13)  
+✨ *Always open to collaborations on full-stack, ML, and innovative tech projects!*  
 
-✨ *Always open to collaborations on full-stack development, ML projects, and innovative tech solutions.*  
+---
 
-
+## 🎮 Fun Section: Play Tic-Tac-Toe
+<div align="center">
+<iframe src="https://aranya13.github.io/tic-tac-toe/" width="350" height="400" style="border:none;"></iframe>
+<p>Click inside the frame to play a simple Tic-Tac-Toe game!</p>
+</div>
